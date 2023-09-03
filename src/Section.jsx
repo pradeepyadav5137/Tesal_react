@@ -1,5 +1,5 @@
 import React from 'react'
-import './tesla.css'
+// import './Tesla.css'n
 import DownArrow from './images/down-arrow.svg'
 
 
